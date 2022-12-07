@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/tienda/static/css/main.e95019f3.css",
+    "main.js": "/tienda/static/js/main.3e82dd94.js",
+    "static/media/prod-tarjeta-de-video-geforce-gtx-1660-super.png": "/tienda/static/media/prod-tarjeta-de-video-geforce-gtx-1660-super.ee0411f34b55e7abbbfb.png",
+    "static/media/prod-ryzen-5-4600G.png": "/tienda/static/media/prod-ryzen-5-4600G.ed5151d46d152e3478e4.png",
+    "static/media/prod-fuente-de-poder-gigabyte-gp-p750gm-80-plus-gold-750w.png": "/tienda/static/media/prod-fuente-de-poder-gigabyte-gp-p750gm-80-plus-gold-750w.40ea933bd55f79fc6a15.png",
+    "static/media/prod-ryzen-5-5600G.png": "/tienda/static/media/prod-ryzen-5-5600G.d3b4aa1252b565c19d80.png",
+    "static/media/prod-placa-asus-prime-a320m.png": "/tienda/static/media/prod-placa-asus-prime-a320m.a812175cc1f554c0986d.png",
+    "static/media/prod-SOFTWARE-ESET-SMART-SECURITY-EDICION-2016-2-PCS+1-ANDROID.png": "/tienda/static/media/prod-SOFTWARE-ESET-SMART-SECURITY-EDICION-2016-2-PCS+1-ANDROID.a7991de3251403bdbc67.png",
+    "static/media/prod-KASPERSKY-TOTAL-SECURITY-2015-3PC-PROMOCIÓN.png": "/tienda/static/media/prod-KASPERSKY-TOTAL-SECURITY-2015-3PC-PROMOCIÓN.b1e33b3ff55efd234d16.png",
+    "static/media/prod-placa-asus-prime-b365m-a-lga1151.png": "/tienda/static/media/prod-placa-asus-prime-b365m-a-lga1151.d9c88f4684361cc4afee.png",
+    "static/media/prod-kit-enkore-brain-3-ent-g1005-3-teclado-mouse-pad-mouse-rgb.png": "/tienda/static/media/prod-kit-enkore-brain-3-ent-g1005-3-teclado-mouse-pad-mouse-rgb.6e92a0e6449cdd81c01f.png",
+    "static/media/prod-kit-enkore-brain-4-teclado-mouse-y-pad-mouse-rgb-ent-g1005-4.png": "/tienda/static/media/prod-kit-enkore-brain-4-teclado-mouse-y-pad-mouse-rgb-ent-g1005-4.d64a71a232d8aafb3113.png",
+    "static/media/prod-kit-halion-kraken-ha-506c-teclado-y-mouse.png": "/tienda/static/media/prod-kit-halion-kraken-ha-506c-teclado-y-mouse.7b912dfff721f7eaa6a4.png",
+    "static/media/prod-tarjeta-de-video-rx-550.png": "/tienda/static/media/prod-tarjeta-de-video-rx-550.dc792bca612597b6e926.png",
+    "static/media/prod-MICROSOFT-WINDOWS-SERVER-STANDARD-2012-X64.png": "/tienda/static/media/prod-MICROSOFT-WINDOWS-SERVER-STANDARD-2012-X64.9393c03e839ad2f55f65.png",
+    "static/media/prod-audifono-halion-gaming-s1-scorpion.png": "/tienda/static/media/prod-audifono-halion-gaming-s1-scorpion.f6017c9bd1d654de8a3e.png",
+    "static/media/prod-antivirus-escan-(edicioncyber-vacuna).png": "/tienda/static/media/prod-antivirus-escan-(edicioncyber-vacuna).6ed631bf4e0ddfec1316.png",
+    "static/media/prod-pad-mouse-gamer-rgb-80x30.png": "/tienda/static/media/prod-pad-mouse-gamer-rgb-80x30.ed2d87bf03c09fd0843e.png",
+    "static/media/prod-audifono-disney-frozen-gt-9300.png": "/tienda/static/media/prod-audifono-disney-frozen-gt-9300.b54ae63ef3d5f7e0d5f4.png",
+    "static/media/prod-mouse-logitech-g203-gamer-8000dpi-rgb-black.png": "/tienda/static/media/prod-mouse-logitech-g203-gamer-8000dpi-rgb-black.d7e49817591257ab3ab5.png",
+    "static/media/prod-adaptador-ugreen-usb-a-sata-para-disco-duro-de-laptop.png": "/tienda/static/media/prod-adaptador-ugreen-usb-a-sata-para-disco-duro-de-laptop.8cbb8499a9a9fdd0d4f2.png",
+    "static/media/prod-MICROSOFT-WINDOWS-SERVER-2012-R2-ESSENTIALS-X64.png": "/tienda/static/media/prod-MICROSOFT-WINDOWS-SERVER-2012-R2-ESSENTIALS-X64.9a00c1dbc8ab2f75d097.png",
+    "static/media/prod-disco-solido-wester-digital-blue-250gb.png": "/tienda/static/media/prod-disco-solido-wester-digital-blue-250gb.b2cd07679b435f3721f6.png",
+    "static/media/prod-memoria-ram-teamgroup-ddr3-8gb-1600mhz.png": "/tienda/static/media/prod-memoria-ram-teamgroup-ddr3-8gb-1600mhz.d9e9ceabc30bfd6611f9.png",
+    "static/media/prod-case-avatec-gamer-cca-3243b-450w-rgb.png": "/tienda/static/media/prod-case-avatec-gamer-cca-3243b-450w-rgb.740d2cfd73bdbbe6ef99.png",
+    "static/media/prod-audifono-deportivo-teros-te-8090-recargable.png": "/tienda/static/media/prod-audifono-deportivo-teros-te-8090-recargable.1049eda48c705e9c3ded.png",
+    "index.html": "/tienda/index.html",
+    "main.e95019f3.css.map": "/tienda/static/css/main.e95019f3.css.map",
+    "main.3e82dd94.js.map": "/tienda/static/js/main.3e82dd94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95019f3.css",
+    "static/js/main.3e82dd94.js"
+  ]
+}
